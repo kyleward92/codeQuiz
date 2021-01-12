@@ -29,7 +29,11 @@ THEN I can save my initials and score
 
 The following animation demonstrates the application functionality:
 
-![code quiz](./Assets/04-web-apis-homework-demo.gif)
+
+<p align="center">
+  
+  <img src="https://user-images.githubusercontent.com/70237338/104273015-55f12400-546c-11eb-9010-104b10ec8023.png" width="350" alt="accessibility text">
+</p>
 
 ### Review
 
